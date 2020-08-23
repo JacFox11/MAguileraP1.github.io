@@ -11,7 +11,7 @@ export default class Home extends Component {
                 <h2>Bienvenido a tu catalogo de Apuntes</h2>
                 <p>Aqui podras gaurdar todos los apuntes que necesites recordar.</p>
             </Jumbotron>
-            <Link to="/src/pages/entrynew.jsx">
+            <Link to="/new">
                 <Button BsStyle="Primary">Nuevo Apunte</Button>
             </Link>
         </Container>
