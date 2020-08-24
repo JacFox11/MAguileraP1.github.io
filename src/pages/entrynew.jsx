@@ -23,7 +23,7 @@ export default class entrynew extends Component {
                         <InputGroup.Text id="basic-addon1">Etiquetas</InputGroup.Text>
                     </InputGroup.Prepend>
                     <FormControl
-                        placeholder="Ej. React, Bootstrap, etc."
+                        placeholder="Ej. React, Bootstrap, Reactstrap, etc."
                         aria-label="Tags"
                         aria-describedby="basic-addon1"
                     />
