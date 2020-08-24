@@ -14,7 +14,7 @@ export default class entrynew extends Component {
                         <InputGroup.Text id="basic-addon1">Descripcion</InputGroup.Text>
                     </InputGroup.Prepend>
                     <FormControl
-                        aria-label="Description hello"
+                        aria-label="Description h"
                         aria-describedby="basic-addon1"
                     />
                 </InputGroup>
